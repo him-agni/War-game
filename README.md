@@ -44,8 +44,8 @@ The game uses the Deck of Cards API to:
 
 ## API Reference
 
-**New Deck**: `https://apis.scrimba.com/deckofcards/api/deck/new/shuffle/`
-**Draw Cards**: `https://apis.scrimba.com/deckofcards/api/deck/{deck_id}/draw/?count=2`
+**New Deck**: https://deckofcardsapi.com/api/deck/new/shuffle/?deck_count=1
+**Draw Cards**: https://deckofcardsapi.com/api/deck/<<deck_id>>/draw/?count=2
 
 
 
